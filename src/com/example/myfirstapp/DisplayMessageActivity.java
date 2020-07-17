@@ -33,7 +33,7 @@ public class DisplayMessageActivity extends Activity {
 //        	ednome.setText(textView.getText());
 //        
 //        } else {
-//        	textView.setText("Objeto View não encontrado");
+//        	textView.setText("Objeto View nï¿½o encontrado");
 //            // Set the text view as the activity layout
 //            setContentView(textView);        
 //        	
@@ -52,7 +52,7 @@ public class DisplayMessageActivity extends Activity {
 //    	Intent intent = new Intent(this, MainActivity.class);
 //        startActivity(intent);
     	
-
+// alterada no master
     	finish();
     }       
     
