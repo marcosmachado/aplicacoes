@@ -52,7 +52,7 @@ public class DisplayMessageActivity extends Activity {
 //    	Intent intent = new Intent(this, MainActivity.class);
 //        startActivity(intent);
     	
-
+//  Alterado no Master
     	finish();
     }       
     
