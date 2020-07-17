@@ -51,8 +51,9 @@ public class DisplayMessageActivity extends Activity {
     	
 //    	Intent intent = new Intent(this, MainActivity.class);
 //        startActivity(intent);
-    	
-//  Alterado no Master
+
+//  teste de merge com o git    	
+
     	finish();
     }       
     
